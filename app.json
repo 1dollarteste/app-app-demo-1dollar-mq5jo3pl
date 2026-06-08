@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "App Demo 1dollar",
+    "slug": "app-demo-1dollar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.umdollar.appdemo1dollar"
+    },
+    "ios": {
+      "bundleIdentifier": "com.umdollar.appdemo1dollar"
+    }
+  }
+}
